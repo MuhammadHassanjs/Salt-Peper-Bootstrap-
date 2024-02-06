@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:  'lato',sans-serif;
+}
+ body{
+    background-color: #000000;
+    color: #ffffff;
+}
+html {
+    font-size: 62.5%;
+}
+#logo-image img{
+    width: 165px;
+}
+#navbar-list {
+    list-style-type: none;
+    font-size: 1.6rem;
+}
+#franchise-btn{
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    padding: 14px 16.5px 14px 16.5px;
+    background-color: transparent;
+    color: #ffffff;
+}
+#order-btn{
+    border-radius: 30px;
+    padding: 14px 16.5px 14px 16.5px;;
+    background-color: #ff0000;
+    color: #ffffff;
+    border: 2px solid #ff0000;
+}
+#arrow-font{
+    background-color:#ffffff;
+    color: #ff0000;
+    border-radius: 30px;
+    border: 5px solid #ffffff;
+    margin-left: 5px;
+    padding: 2px;
+}   
+  .buttons a {
+    display: inline-block;
+    height: 50px;
+    width: 30px;
+    border-radius: 10px;
+    background-color: rgb(236, 25, 25);
+  }
+
+.btn-1{
+    text-decoration: none;
+  }
+.carousel-item  img{
+      width:  100% !important;
+       
+}
+ 
+.carousel .carousel-item {
+    height: 500px;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      object-fit: cover;
+      top: 0;
+      left: 0;
+      min-height: 500px;
+  }
+  #middle-images img{
+    background-color: #ffffff;
+    border-radius: 3px;
+    padding: 15px 15px;
+  }
+.btn-1{
+    text-decoration: none;
+  }
+  span{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:bold ;
+    line-height: 52px;
+    font-size: 52px;
+    color: #FFFFFF;
+  }
+  #middle-images button{
+    display: block;
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 15px;
+    width: 160px;
+    background-color: transparent;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-left: 70px ;
+  }
+  #middle-images a{
+    color: #ffffff;
+  }
+.slider{
+  width: 100%;
+}
+h1{
+  margin-top: 70px;
+  font-size: 30px;
+  font-family: "Open Sans", sans-serif;
+}
+p{
+    font-weight: 400;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.7)
+    
+}
+#paragraph-1{
+    line-height: 50px;
+}
+.slider img{
+    margin: 0px !important;
+    padding: 0px !important;
+    box-sizing: border-box !important;
+    width: 100%;
+    font-family:  'lato',sans-serif;
+}
+.card-img-top{
+  width: 25rem;
+  padding: 5px;
+  background-color: #000000;
+}
